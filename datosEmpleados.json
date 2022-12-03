@@ -1,0 +1,49 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "nombre": "Marcos Tello",
+      "celular": "991773522",
+      "cargo": "Jefe de Obra"
+    },
+    {
+      "id": 2,
+      "nombre": "Sofía Rodriguez",
+      "celular": "980773699",
+      "cargo": "Ingeniero"
+    },
+    {
+      "id": 3,
+      "nombre": "Abraham Silva",
+      "celular": "991773521",
+      "cargo": "Ingeniero"
+    },
+    {
+      "id": 4,
+      "nombre": "Johan Martinez",
+      "celular": "9876543215",
+      "cargo": "Jefe de Obra"
+    },
+    {
+      "id": 5,
+      "nombre": "Luz Lopez",
+      "celular": "923456808",
+      "cargo": "Jefe de Obra"
+    },
+    {
+      "id": 6,
+      "nombre": "Sara Mambiche",
+      "celular": "907775877",
+      "cargo": "Ingeniero"
+    },
+    {
+      "id": 7,
+      "nombre": "Lorenzo Iturria",
+      "celular": "945665450",
+      "cargo": "Jefe de Obra"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
