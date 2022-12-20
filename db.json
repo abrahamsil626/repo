@@ -1,46 +1,60 @@
 {
   "posts": [
     {
-      "id": 1,
-      "nombre": "Marcos Tello",
-      "celular": "991773522",
-      "cargo": "Jefe de Obra"
+      "codTrabajador": 1,
+      "nombreTrabajador": "Marcos Tello",
+      "celularTrabajador": "991773522",
+      "cargoTrabajador": "Jefe de Obra",
+      "correo": "marcost@gmail.com",
+      "password": "123456"
     },
     {
-      "id": 2,
-      "nombre": "Sofía Rodriguez",
-      "celular": "980773699",
-      "cargo": "Ingeniero"
+      "codTrabajador": 2,
+      "nombreTrabajador": "Sofía Rodriguez",
+      "celularTrabajador": "980773699",
+      "cargoTrabajador": "Ingeniero",
+      "correo": "sofiar@gmail.com",
+      "password": "123"
     },
     {
-      "id": 3,
-      "nombre": "Abraham Silva",
-      "celular": "991773521",
-      "cargo": "Ingeniero"
+      "codTrabajador": 3,
+      "nombreTrabajador": "Abraham Silva",
+      "celularTrabajador": "991773521",
+      "cargoTrabajador": "Ingeniero",
+      "correo": "abrahams@gmail.com",
+      "password": "123456"
     },
     {
-      "id": 4,
-      "nombre": "Johan Martinez",
-      "celular": "9876543215",
-      "cargo": "Jefe de Obra"
+      "codTrabajador": 4,
+      "nombreTrabajador": "Johan Martinez",
+      "celularTrabajador": "987654321",
+      "cargoTrabajador": "Jefe de Obra",
+      "correo": "johanm@gmail.com",
+      "password": "123456789"
     },
     {
-      "id": 5,
-      "nombre": "Luz Lopez",
-      "celular": "923456808",
-      "cargo": "Jefe de Obra"
+      "codTrabajador": 5,
+      "nombreTrabajador": "Luz Lopez",
+      "celularTrabajador": "923456808",
+      "cargoTrabajador": "Jefe de Obra",
+      "correo": "luzl@gmail.com",
+      "password": "456654"
     },
     {
-      "id": 6,
-      "nombre": "Sara Mambiche",
-      "celular": "907775877",
-      "cargo": "Ingeniero"
+      "codTrabajador": 6,
+      "nombreTrabajador": "Magdalena Vera",
+      "celularTrabajador": "907775877",
+      "cargoTrabajador": "Ingeniero",
+      "correo": "magdavera@gmail.com",
+      "password": "654321"
     },
     {
-      "id": 7,
-      "nombre": "Lorenzo Iturria",
-      "celular": "945665450",
-      "cargo": "Jefe de Obra"
+      "codTrabajador": 7,
+      "nombreTrabajador": "Lorenzo Iturria",
+      "celularTrabajador": "945665450",
+      "cargoTrabajador": "Jefe de Obra",
+      "correo": "lorenzoi@gmail.com",
+      "password": "987654321"
     }
   ],
   "profile": {
